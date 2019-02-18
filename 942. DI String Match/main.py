@@ -12,6 +12,7 @@ class Solution:
         result.append(min)
         return result
 
+
 if __name__ == '__main__':
     s = Solution()
     A = "IDID"
